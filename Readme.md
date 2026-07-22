@@ -2,10 +2,6 @@
 
 ## 1. Installer IntelliJ Ultimate
 
-![Installation IntelliJ](Captures/Capture1.PNG)
-
----
-
 ## 2. Créer un projet Spring Initializer
 
 Ajouter les dépendances :
