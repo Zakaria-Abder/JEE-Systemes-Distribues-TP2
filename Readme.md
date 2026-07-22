@@ -2,7 +2,7 @@
 
 ## 1. Installer IntelliJ Ultimate
 
-![Installation IntelliJ](Captures/Capture1.png)
+![Installation IntelliJ](Captures/Capture1.PNG)
 
 ---
 
@@ -15,7 +15,7 @@ Ajouter les dépendances :
 - Spring Web
 - Lombok
 
-![Spring Initializer](Captures/Capture1.png)
+![Spring Initializer](Captures/Capture1.PNG)
 
 ---
 
@@ -28,7 +28,7 @@ L'entité contient les attributs suivants :
 - `price` : double
 - `quantity` : int
 
-![Entité Product](Captures/Capture2.png)
+![Entité Product](Captures/Capture2.PNG)
 
 ---
 
@@ -36,7 +36,7 @@ L'entité contient les attributs suivants :
 
 Modifier le fichier **application.properties**.
 
-![Configuration](Captures/Capture3.png)
+![Configuration](Captures/Capture3.PNG)
 
 ---
 
@@ -44,7 +44,7 @@ Modifier le fichier **application.properties**.
 
 Créer une interface basée sur **Spring Data JPA**.
 
-![Repository](Captures/Capture4.png)
+![Repository](Captures/Capture4.PNG)
 
 ---
 
@@ -61,9 +61,9 @@ Les opérations réalisées sont :
 
 ### Résultats
 
-![CRUD 1](Captures/Capture5.png)
+![CRUD 1](Captures/Capture5.PNG)
 
-![CRUD 2](Captures/Capture8.png)
+![CRUD 2](Captures/Capture8.PNG)
 
 ---
 
@@ -71,11 +71,11 @@ Les opérations réalisées sont :
 
 ### Base H2
 
-![H2](Captures/Capture6.png)
+![H2](Captures/Capture6.PNG)
 
 ### Base MySQL
 
-![MySQL](Captures/Capture7.png)
+![MySQL](Captures/Capture7.PNG)
 
 ---
 
@@ -90,4 +90,4 @@ Création des entités suivantes :
 - Users
 - Roles
 
-![Projet](Captures/Capture9.png)
+![Projet](Captures/Capture9.PNG)
